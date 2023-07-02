@@ -1,7 +1,7 @@
 ![logo](https://github.com/VINAYAKMACHAPURE/VINAYAKMACHAPURE/blob/main/github-header-image%20(1).png)
 <h1 align="center">Hi 👋, I'm 𝐕𝐢𝐧𝐚𝐲𝐚𝐤 𝐌𝐚𝐜𝐡𝐚𝐩𝐮𝐫𝐞</h1>
 <h3 align="center">A passionate programmer from India</h3>
-<img align="right" alt="Coding" width="200" src="https://github.com/SAHILDUDHAL21/SAHILDUDHAL21/blob/main/coding.gif">
+<img align="right" alt="Coding" width="200" src="https://github.com/VINAYAKMACHAPURE/VINAYAKMACHAPURE/blob/main/1688283428912.gif">
  
 
 
